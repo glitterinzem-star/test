@@ -200,7 +200,7 @@
         media: 'Высокая медийка',
         since: '0000',
         profile: 'https://t.me/AlOsint',
-        img: 'assets/avatars/avatar77.png',
+        img: 'https://github.com/glitterinzem-star/test/blob/2751079d5f1d012bb6d06226949884906edd11fa/alex.jpg.jpeg',
         desc: 'разработчик сайта (0000 это эксклюзивный тест номер)'
       },
       {
