@@ -210,7 +210,7 @@
         media: 'Высокая медийка', // медиапопулярность
         since: '0000',
         profile: 'https://t.me/psixotatia',
-        img: '',
+        img: 'https://github.com/glitterinzem-star/list/raw/1f126336feb4880f4c731615fc6dba2a4b96db2b/psixo.jpg.jpg',
         desc: 'разработчик сайта (0000 это эксклюзивный тест номер)'
       },
       {
