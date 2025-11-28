@@ -220,18 +220,18 @@
         media: 'Высокая медийка',
         since: '2022',
         profile: 'Https://t.me/koshmarovbog',
-        img: 'assets/avatars/avatar1.png',
+        img: 'https://github.com/glitterinzem-star/list/raw/21f4f07d00cb39e3a613b2ee242e7114ac35a78d/kosh.jpg.jpg',
         desc: 'личность которую практически везде узнают'
       },
       {
-        nick: 'NoName',
+        nick: 'Вейзов',
         rank: 'medium',
         rankName: 'Средняя',
-        media: 'Малая медийка',
+        media: 'Средняя мидийка',
         since: '2025',
-        profile: 'https://t.me/noname',
+        profile: 'https://t.me/weizovv',
         img: 'assets/avatars/avatar1.png',
-        desc: 'описание'
+        desc: 'личность которую почти везде узнают'
       },
       {
         nick: 'NoName',
