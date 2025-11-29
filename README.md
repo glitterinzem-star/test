@@ -239,8 +239,8 @@
         rankName: 'Средняя',
         media: 'Средняя медийка',
         since: '2024',
-        profile: 'https://t.me/noname',
-        img: 'assets/avatars/avatar1.png',
+        profile: 'https://t.me/miramaniac',
+        img: 'https://github.com/glitterinzem-star/list/raw/baaa63ce37fc6531ac94eccf5337caf113c15a47/mira.jpg.jpg',
         desc: 'средне узнаваемая личность'
       },
       {
